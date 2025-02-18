@@ -1,0 +1,24 @@
+#EXTM3U8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png", Caracol TV
+https://stream.gia.tv/giatv/giatv-GaryCanalGaryCanal/GaryCanalGaryCanal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol TV HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png", Caracol TV HD2
+https://stream.gia.tv/giatv/giatv-Gary2CanalGary2Canal/Gary2CanalGary2Canal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png", Canal RCN
+https://cdn-live-rcn-tkdrm-edge1.tbxdrm.com/bcdn_token=ZgL1HsWsPl9u9t_dexpiBKXw1v1mqT1wU5f1V33ESJM&token_path=%2Frcn%2F&expires=1736980681/rcn/manifest.mpd
+
+#EXTINF:-1 tvg-id="Canal.1.co" tvg-name="Canal Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/190px-Canal1Colombia2024.svg.png", Canal Uno
+https://stream.gia.tv/giatv/giatv-firstchannelfirstchannel/firstchannelfirstchannel/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SeÃ±al.Colombia.co" tvg-name="Señal Colombia" tvg-logo="https://i0.wp.com/www.chatytvgratis.live/wp-content/uploads/2014/11/logo-senal-colombia-tv.png?fit=368%2C368&ssl=1", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Institucional.co" tvg-name="Canal Institucional" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online.png", Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="Telepacífico" tvg-logo="https://colombia.mom-gmr.org/uploads/_processed_/b/c/csm_517-941_import_ecd4011511.png", Telepacífico
+https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+
+#EXTINF:-1 tvg-id="City.TV.co" tvg-name="City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/CityTV_Logo_2023_Naranja.webp", City TV
+https://stream.gia.tv/giatv/giatv-ctybogcolctybogcol/ctybogcolctybogcol/chunks.m3u8
